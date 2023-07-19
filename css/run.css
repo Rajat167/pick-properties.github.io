@@ -12006,7 +12006,7 @@ body {
 }
 .property_soon::after{
     content: "";
-    background-color: #ffffff4d;
+    /* background-color: #ffffff4d; */
     position: absolute;
     width: 100%;
     height: 450px;
@@ -12016,7 +12016,7 @@ body {
 }
 .property_soon img{
     width: 18%;
-    opacity: 0.8;
+    opacity: 0.5;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
