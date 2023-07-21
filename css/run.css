@@ -12001,7 +12001,7 @@ body {
 .property_soon{
     width: 100%;
     height: 450px;
-    margin-top: 8rem;
+    margin-top: 3rem;
     position: relative;
 }
 .property_soon::after{
